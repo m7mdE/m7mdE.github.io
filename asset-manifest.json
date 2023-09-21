@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.576c2ac6.css",
+    "main.js": "/static/js/main.ed8a0ef7.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar-img.jpg": "/static/media/avatar-img.a5b4880cf3b7aaba0cbf.jpg",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/twitter.png": "/static/media/twitter.cb21aba202077e8c6c9c.png",
+    "static/media/Mohamed_Emran_Data-Scientist.pdf": "/static/media/Mohamed_Emran_Data-Scientist.4689e6e39030239bb05e.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.576c2ac6.css.map": "/static/css/main.576c2ac6.css.map",
+    "main.ed8a0ef7.js.map": "/static/js/main.ed8a0ef7.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576c2ac6.css",
+    "static/js/main.ed8a0ef7.js"
+  ]
+}
