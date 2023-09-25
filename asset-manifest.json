@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.576c2ac6.css",
-    "main.js": "/static/js/main.ed8a0ef7.js",
+    "main.js": "/static/js/main.f2a75868.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar-img.jpg": "/static/media/avatar-img.a5b4880cf3b7aaba0cbf.jpg",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/Aquitaine-animal-hospital.png": "/static/media/Aquitaine-animal-hospital.9ca7c426010823b31331.png",
+    "static/media/Central-driving-school.png": "/static/media/Central-driving-school.aa0e94c133de62a52f66.png",
+    "static/media/Netflix-Dashboard.png": "/static/media/Netflix-Dashboard.fddc2e799c35c8bdaf21.png",
+    "static/media/Gibsan-Ecommerce.png": "/static/media/Gibsan-Ecommerce.75a7753ca206deef21f3.png",
+    "static/media/Airline-Operation-Dashboard.png": "/static/media/Airline-Operation-Dashboard.4c1f77032041e5936f8e.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/twitter.png": "/static/media/twitter.cb21aba202077e8c6c9c.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.576c2ac6.css.map": "/static/css/main.576c2ac6.css.map",
-    "main.ed8a0ef7.js.map": "/static/js/main.ed8a0ef7.js.map",
+    "main.f2a75868.js.map": "/static/js/main.f2a75868.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.576c2ac6.css",
-    "static/js/main.ed8a0ef7.js"
+    "static/js/main.f2a75868.js"
   ]
 }
