@@ -73,15 +73,15 @@ function NavBar() {
             <NavDropdown title={<div><AiOutlineFundProjectionScreen style={{ marginBottom: "2px" }}/>{" "}Projects</div>} id="navbarScrollingDropdown">
               <NavDropdown.Item 
                 as={Link} 
-                to="/project"
+                to="/webdev"
                 onClick={() => updateExpanded(false)}>
-                  Data Science
+                  Web Dev
               </NavDropdown.Item>
               <NavDropdown.Item 
                 as={Link} 
-                to="/project"
+                to="/datascience"
                 onClick={() => updateExpanded(false)}>
-                  Web Dev
+                  Data Science
               </NavDropdown.Item>
             </NavDropdown>
 

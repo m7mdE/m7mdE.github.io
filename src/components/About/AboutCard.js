@@ -20,8 +20,7 @@ function AboutCard() {
           Additionally, I am currently employed as a web developer at
           JCA Law.
           <br />
-          <br />
-          Apart from coding, some other activities that I love to do!
+          <br /> 
           </p>
 
           <p style={{ color: "rgb(126 140 172)" }}>

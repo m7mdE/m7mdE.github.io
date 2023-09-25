@@ -15,8 +15,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            Working through data every day led me to curiosity in asking many questions. 
-              
+              6+ years of experience as a web developer with ability to build web applications, optimize user experience, and basic knowledge as a SEO specialist.
+              <br />
+              <br />
+              Working through data every day led me to curiosity in asking many questions. 
               <br />
               <br />
               I am passionate about extracting insights and making data-driven decisions.
@@ -24,11 +26,8 @@ function Home2() {
               <br />
               My key skills include experience in programming languages such as
               <i>
-              <b className="purple"> Python, SQL, and Javascript with basic knowledge of PHP.</b>
+              <b className="purple"> Python, SQL, Javascript and PHP.</b>
               </i> 
-              <br />
-              <br />
-              My previous experience as a web developer and my ability to build web applications and optimize the user experience, adds to my uniqueness as a data scientist.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

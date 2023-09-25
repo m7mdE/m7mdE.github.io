@@ -6,7 +6,7 @@ import twitter from "../../Assets/Projects/twitter.png";
 import airline from "../../Assets/Projects/Airline-Operation-Dashboard.png";
 import netflix from "../../Assets/Projects/Netflix-Dashboard.png";
 
-function Projects() {
+function DataScience() {
   return (
     <Container fluid className="project-section">
       <Particle />
@@ -61,4 +61,4 @@ function Projects() {
   );
 }
 
-export default Projects;
+export default DataScience;
