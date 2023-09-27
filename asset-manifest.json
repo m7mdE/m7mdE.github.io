@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.576c2ac6.css",
-    "main.js": "/static/js/main.5f37a671.js",
+    "main.css": "/static/css/main.7a328f10.css",
+    "main.js": "/static/js/main.28e6a30b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar-img.jpg": "/static/media/avatar-img.a5b4880cf3b7aaba0cbf.jpg",
     "static/media/Aquitaine-animal-hospital.png": "/static/media/Aquitaine-animal-hospital.9ca7c426010823b31331.png",
+    "static/media/jcaportal.png": "/static/media/jcaportal.5223183b1ccd3b572ccf.png",
     "static/media/Central-driving-school.png": "/static/media/Central-driving-school.aa0e94c133de62a52f66.png",
+    "static/media/nbirenewal.png": "/static/media/nbirenewal.644815ba76aae8ad599f.png",
+    "static/media/Filipinolawyer-website.png": "/static/media/Filipinolawyer-website.1ed987938e0b6ec01912.png",
     "static/media/Netflix-Dashboard.png": "/static/media/Netflix-Dashboard.fddc2e799c35c8bdaf21.png",
     "static/media/Gibsan-Ecommerce.png": "/static/media/Gibsan-Ecommerce.75a7753ca206deef21f3.png",
     "static/media/Airline-Operation-Dashboard.png": "/static/media/Airline-Operation-Dashboard.4c1f77032041e5936f8e.png",
@@ -17,13 +20,13 @@
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.576c2ac6.css.map": "/static/css/main.576c2ac6.css.map",
-    "main.5f37a671.js.map": "/static/js/main.5f37a671.js.map",
+    "main.7a328f10.css.map": "/static/css/main.7a328f10.css.map",
+    "main.28e6a30b.js.map": "/static/js/main.28e6a30b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.576c2ac6.css",
-    "static/js/main.5f37a671.js"
+    "static/css/main.7a328f10.css",
+    "static/js/main.28e6a30b.js"
   ]
 }
