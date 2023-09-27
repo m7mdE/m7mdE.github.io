@@ -15,7 +15,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              6+ years of experience as a web developer with ability to build web applications, optimize user experience, and basic knowledge as a SEO specialist.
+              6+ years of experience as a web developer with ability to build web applications, optimize user experience, and basic knowledge of SEO.
               <br />
               <br />
               Working through data every day led me to curiosity in asking many questions. 
