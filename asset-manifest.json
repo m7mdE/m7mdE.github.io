@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a328f10.css",
-    "main.js": "/static/js/main.28e6a30b.js",
+    "main.js": "/static/js/main.e078ad6c.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar-img.jpg": "/static/media/avatar-img.a5b4880cf3b7aaba0cbf.jpg",
@@ -11,6 +11,7 @@
     "static/media/nbirenewal.png": "/static/media/nbirenewal.644815ba76aae8ad599f.png",
     "static/media/Filipinolawyer-website.png": "/static/media/Filipinolawyer-website.1ed987938e0b6ec01912.png",
     "static/media/Netflix-Dashboard.png": "/static/media/Netflix-Dashboard.fddc2e799c35c8bdaf21.png",
+    "static/media/Tachitools.png": "/static/media/Tachitools.53baef8641e043e25f49.png",
     "static/media/Gibsan-Ecommerce.png": "/static/media/Gibsan-Ecommerce.75a7753ca206deef21f3.png",
     "static/media/Airline-Operation-Dashboard.png": "/static/media/Airline-Operation-Dashboard.4c1f77032041e5936f8e.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
@@ -21,12 +22,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.7a328f10.css.map": "/static/css/main.7a328f10.css.map",
-    "main.28e6a30b.js.map": "/static/js/main.28e6a30b.js.map",
+    "main.e078ad6c.js.map": "/static/js/main.e078ad6c.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a328f10.css",
-    "static/js/main.28e6a30b.js"
+    "static/js/main.e078ad6c.js"
   ]
 }
