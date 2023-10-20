@@ -8,6 +8,7 @@ import animal from "../../Assets/Projects/Aquitaine-animal-hospital.png";
 import filipinolaw from "../../Assets/Projects/Filipinolawyer-website.png";
 import nbirenewal from "../../Assets/Projects/nbirenewal.png";
 import jcaportal from "../../Assets/Projects/jcaportal.png";
+import tachitools from "../../Assets/Projects/Tachitools.png";
 
 function WebDev() {
   return (
@@ -83,6 +84,15 @@ function WebDev() {
           Site Build as Freelancer
         </h2>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={tachitools}
+              isBlog={false}
+              title="Tachitools"
+              description=""
+              demoLink="https://tachitools.com/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={gibsan}
