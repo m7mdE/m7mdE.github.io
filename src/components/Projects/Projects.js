@@ -20,24 +20,24 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={airflow}
               isBlog={false}
               title="Twitter Data Pipeline with Apache Airflow"
               description="Automating the process of collecting, processing, and storing twitter clean data into Amazon S3 bucket, in order to use it for data analysis. We will be using Apache Airflow management tool to create and manage data pipeline."
               ghLink="https://github.com/m7mdE/twitterAirflow"
-              demoLink="https://twitter-sentimentapp.streamlit.app/"
+              demoLink=""
             />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={mma}
               isBlog={false}
-              title="MMA Datathon Fall - Optimizing The 'Instabasket' Aisle"
+              title="MMA Datathon - Optimizing The 'Instabasket' Aisle"
               description="To enhance the MM&A Experience by responding to a high demand from Instabasket personal shoppers by populating a specialized aisle, optimizing both product selection and substitution based on data-driven insights."
               ghLink="https://github.com/m7mdE/MMA-Datathon-Supermarket-Analysis"
-              demoLink="https://twitter-sentimentapp.streamlit.app/"
+              demoLink=""
             />
           </Col>
           <Col md={4} className="project-card">
