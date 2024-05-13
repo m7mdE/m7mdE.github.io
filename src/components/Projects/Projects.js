@@ -27,6 +27,7 @@ function Projects() {
               title="Twitter Data Pipeline with Apache Airflow"
               description="Automating the process of collecting, processing, and storing twitter clean data into Amazon S3 bucket, in order to use it for data analysis. We will be using Apache Airflow management tool to create and manage data pipeline."
               ghLink="https://github.com/m7mdE/twitterAirflow"
+              demoLink="https://twitter-sentimentapp.streamlit.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -36,6 +37,7 @@ function Projects() {
               title="MMA Datathon Fall - Optimizing The 'Instabasket' Aisle"
               description="To enhance the MM&A Experience by responding to a high demand from Instabasket personal shoppers by populating a specialized aisle, optimizing both product selection and substitution based on data-driven insights."
               ghLink="https://github.com/m7mdE/MMA-Datathon-Supermarket-Analysis"
+              demoLink="https://twitter-sentimentapp.streamlit.app/"
             />
           </Col>
           <Col md={4} className="project-card">
