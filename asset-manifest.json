@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a328f10.css",
-    "main.js": "/static/js/main.1d86a79f.js",
+    "main.js": "/static/js/main.e708482e.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar-img.jpg": "/static/media/avatar-img.a5b4880cf3b7aaba0cbf.jpg",
@@ -17,17 +17,19 @@
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/twitter.png": "/static/media/twitter.cb21aba202077e8c6c9c.png",
+    "static/media/airflow-project.png": "/static/media/airflow-project.933355f92f21f1f14ca1.png",
+    "static/media/MMA-datathon.png": "/static/media/MMA-datathon.430292cbb1cbd0d3445a.png",
     "static/media/Mohamed_Emran_Data-Scientist.pdf": "/static/media/Mohamed_Emran_Data-Scientist.4689e6e39030239bb05e.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.7a328f10.css.map": "/static/css/main.7a328f10.css.map",
-    "main.1d86a79f.js.map": "/static/js/main.1d86a79f.js.map",
+    "main.e708482e.js.map": "/static/js/main.e708482e.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a328f10.css",
-    "static/js/main.1d86a79f.js"
+    "static/js/main.e708482e.js"
   ]
 }
