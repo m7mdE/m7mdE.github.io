@@ -81,7 +81,7 @@ function NavBar() {
                 as={Link} 
                 to="/datascience"
                 onClick={() => updateExpanded(false)}>
-                  Data Science
+                  Data Projects
               </NavDropdown.Item>
             </NavDropdown>
 
