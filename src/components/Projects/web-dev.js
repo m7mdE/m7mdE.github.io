@@ -9,6 +9,7 @@ import filipinolaw from "../../Assets/Projects/Filipinolawyer-website.png";
 import nbirenewal from "../../Assets/Projects/nbirenewal.png";
 import jcaportal from "../../Assets/Projects/jcaportal.png";
 import tachitools from "../../Assets/Projects/Tachitools.png";
+import pemberton from "../../Assets/Projects/pembertongroup.png";
 
 function WebDev() {
   return (
@@ -21,6 +22,39 @@ function WebDev() {
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
+
+        <h2 className="project-heading">
+          Site Build as Freelancer
+        </h2>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={tachitools}
+              isBlog={false}
+              title="Tachitools"
+              description=""
+              demoLink="https://tachitools.com/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gibsan}
+              isBlog={false}
+              title="Gibsan"
+              description=""
+              demoLink="https://shop.gibsanapp.com/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pemberton}
+              isBlog={false}
+              title="Pemberton Group"
+              description=""
+              demoLink="https://pembertongroup.com/"
+            />
+          </Col>
+        </Row>
 
         <h2 className="project-heading">
           Site Build at JCA Law
@@ -80,30 +114,7 @@ function WebDev() {
           </Col>
         </Row>
 
-        <h2 className="project-heading">
-          Site Build as Freelancer
-        </h2>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={tachitools}
-              isBlog={false}
-              title="Tachitools"
-              description=""
-              demoLink="https://tachitools.com/"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={gibsan}
-              isBlog={false}
-              title="Gibsan"
-              description=""
-              demoLink="https://shop.gibsanapp.com/"
-            />
-          </Col>
-        </Row>
-
+        
       </Container>
     </Container>
   );
