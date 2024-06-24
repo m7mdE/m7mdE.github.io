@@ -13,6 +13,9 @@ import pemberton from "../../Assets/Projects/pembertongroup.png";
 import profilmoto from "../../Assets/Projects/profilmoto.png";
 import pmcaravanes from "../../Assets/Projects/pmcaravanes.png";
 import hyundaivictoriaville from "../../Assets/Projects/hyundaivictoriaville.png";
+import kiavictoriaville from "../../Assets/Projects/kiavictoriaville.png";
+import leveilletoyota from "../../Assets/Projects/leveilletoyota.png";
+import ford440 from "../../Assets/Projects/440ford.png";
 
 function WebDev() {
   return (
@@ -97,16 +100,6 @@ function WebDev() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={profilmoto}
-              isBlog={false}
-              title="Profil Moto"
-              description=""
-              ghLink=""
-              demoLink="https://www.profilmoto.ca/fr/"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={pmcaravanes}
               isBlog={false}
               title="P.M. Caravanes"
@@ -123,6 +116,46 @@ function WebDev() {
               description=""
               ghLink=""
               demoLink="https://www.hyundaivictoriaville.com/eng/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kiavictoriaville}
+              isBlog={false}
+              title="Kia Victoriaville"
+              description=""
+              ghLink=""
+              demoLink="https://www.kiavictoriaville.com/eng/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={leveilletoyota}
+              isBlog={false}
+              title="Léveillé Toyota"
+              description=""
+              ghLink=""
+              demoLink="https://www.leveilletoyota.com/en/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ford440}
+              isBlog={false}
+              title="440 Ford Laval"
+              description=""
+              ghLink=""
+              demoLink="https://www.440ford.ca/en"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={profilmoto}
+              isBlog={false}
+              title="Profil Moto"
+              description=""
+              ghLink=""
+              demoLink="https://www.profilmoto.ca/fr/"
             />
           </Col>
         </Row>
