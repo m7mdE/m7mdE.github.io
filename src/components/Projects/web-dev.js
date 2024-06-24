@@ -10,6 +10,9 @@ import nbirenewal from "../../Assets/Projects/nbirenewal.png";
 import jcaportal from "../../Assets/Projects/jcaportal.png";
 import tachitools from "../../Assets/Projects/Tachitools.png";
 import pemberton from "../../Assets/Projects/pembertongroup.png";
+import profilmoto from "../../Assets/Projects/profilmoto.png";
+import pmcaravanes from "../../Assets/Projects/pmcaravanes.png";
+import hyundaivictoriaville from "../../Assets/Projects/hyundaivictoriaville.png";
 
 function WebDev() {
   return (
@@ -84,6 +87,42 @@ function WebDev() {
               isBlog={false}
               title="JCA Law Portal"
               description="The goal of this project is building a CRM system to manage a streamline between an employee and a customers. This will help customers to receive an up-to-date processing time and keeping them on-loop."
+            />
+          </Col>
+        </Row>
+
+        <h2 className="project-heading">
+          Site Build at AutoTrader
+        </h2>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={profilmoto}
+              isBlog={false}
+              title="Profil Moto"
+              description=""
+              ghLink=""
+              demoLink="https://www.profilmoto.ca/fr/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={pmcaravanes}
+              isBlog={false}
+              title="P.M. Caravanes"
+              description=""
+              ghLink=""
+              demoLink="https://www.pmcaravanes.ca/en"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={hyundaivictoriaville}
+              isBlog={false}
+              title="Hyundai Victoriaville"
+              description=""
+              ghLink=""
+              demoLink="https://www.hyundaivictoriaville.com/eng/"
             />
           </Col>
         </Row>
